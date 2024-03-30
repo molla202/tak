@@ -1,0 +1,19 @@
+{
+    "chain_name": "Cascadia",
+    "coingecko": "",
+    "api": ["https://cscd-api.systemd.run","https://testnet-cascadia-api.genznodes.dev","https://api.cascadia-t.indonode.net"],
+    "rpc": ["https://cscd-rpc.systemd.run","https://testnet-cascadia-rpc.genznodes.dev"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.46.10",
+    "coin_type": "60",
+    "min_tx_fee": "0.025",
+    "addr_prefix": "cascadia",
+    "logo": "/logos/cscd.png",
+    "assets": [{
+        "base": "UTCC",
+        "symbol": "tCC",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/cscd.png"
+    }]
+}
